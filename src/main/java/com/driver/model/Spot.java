@@ -35,7 +35,7 @@ public class Spot {
 
     }
 
-    public Spot(int parkingLotId, Integer numberOfWheels, Integer pricePerHour) {
+    public Spot() {
     }
 
     public int getId() {
